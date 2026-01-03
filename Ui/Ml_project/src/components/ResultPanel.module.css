@@ -1,0 +1,105 @@
+.card {
+  flex: 1;
+  background: #ffffff;
+  padding: 1.25rem 1.5rem;
+  border-radius: 1rem;
+  border: 1px solid #d4d4ff;
+  box-shadow: 0 12px 30px rgba(148, 163, 184, 0.4);
+  margin-top: 1rem;
+}
+
+@media (min-width: 900px) {
+  .card {
+    margin-top: 0;
+  }
+}
+
+.card h3 {
+  font-size: 1rem;
+  margin-bottom: 0.75rem;
+  color: #111827;
+}
+
+.placeholder {
+  font-size: 0.9rem;
+  color: #6b7280;
+}
+
+.badge {
+  display: inline-flex;
+  padding: 0.35rem 0.8rem;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.badgeSafe {
+  background: #dcfce7;
+  color: #15803d;
+  border: 1px solid #4ade80;
+}
+
+.badgeDanger {
+  background: #fee2e2;
+  color: #b91c1c;
+  border: 1px solid #fca5a5;
+}
+
+.info {
+  font-size: 0.85rem;
+  color: #4b5563;
+  margin-bottom: 0.75rem;
+}
+
+.info span {
+  color: #111827;
+  font-weight: 600;
+}
+
+.subTitle {
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+  color: #111827;
+}
+
+.details {
+  border-top: 1px dashed #e5e7eb;
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  display: grid;
+  gap: 0.35rem;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+}
+
+.key {
+  color: #6b7280;
+  text-transform: capitalize;
+}
+
+.value {
+  color: #111827;
+  margin-left: 0.75rem;
+}
+
+.downloadButton {
+  margin: 0.5rem 0 0.75rem;
+  padding: 0.4rem 0.9rem;
+  border-radius: 999px;
+  border: none;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 500;
+
+  background: #0ea5e9;
+  color: #ecfeff;
+}
+
+.downloadButton:hover {
+  opacity: 0.9;
+}
