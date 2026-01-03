@@ -16,7 +16,8 @@ The React Compiler is not enabled on this template because of its impact on dev 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 ## Instruction to run this UI (React)
-First you need to download letest nodejs (Link: https://nodejs.org/en/download) based on your os, <br>if you're run react first time on your system then definetly did this and now <br>2. Simply now open this code on any code editor Like VSCode then open Vscode terminal then usind command go to the UI folder like this ( cd .\Ui\Ml_project\ ) hit enter now you will be on Ml_project folder and now last step ,<br> run  "npm run dev" after did last step and don't worry this command start react locally on your browser and now you will see like this: <br>
+1.First you need to download letest nodejs (Link: https://nodejs.org/en/download) based on your os, <br>if you're run react first time on your system then definetly did this<br> 
+2. Simply now open this code on any code editor Like VSCode then open Vscode terminal then usind command go to the UI folder like this ( cd .\Ui\Ml_project\ ) hit enter now you will be on Ml_project folder and now last step ,<br> run  "npm run dev" after did last step and don't worry this command start react locally on your browser and now you will see like this: <br>
 
   VITE v7.2.6  ready in 5718 ms <br>
 
