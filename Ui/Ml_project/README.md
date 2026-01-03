@@ -25,6 +25,8 @@ If you are developing a production application, we recommend using TypeScript wi
   <br>➜  Network: use --host to expose
   <br>➜  press h + enter to show help<br>
 
-  Press ctrl with enter on Localhost you will see all Ui and this is how you start your UI but now model will now work until you start python Api and how will you know this? Go to the Project README. <br>
+Press ctrl with enter on Localhost you will see all Ui and this is how you start your UI but now model will now work until you start python Api and how will you know this? Go to the Project README. <br>
+Here the project README.md link: https://github.com/sagulal-netam/Diabetes-Predicter-ML-Model-/blob/main/README.md
+<br>
                                                                                         <div align="right"> Thank you!        <br>
                                                                                                           For visit My project </div>
