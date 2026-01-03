@@ -25,5 +25,5 @@ First you need to download letest nodejs (Link: https://nodejs.org/en/download) 
   <br>➜  press h + enter to show help<br>
 
   Press ctrl with enter on Localhost you will see all Ui and this is how you start your UI but now model will now work until you start python Api and how will you know this? Go to the Project README. <br>
-                                                                                        <div align="right"> Thank you! <br>
+                                                                                        <div align="right"> Thank you!        <br>
                                                                                                           For visit My project </div>
