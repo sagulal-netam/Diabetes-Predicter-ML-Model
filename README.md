@@ -15,9 +15,10 @@ Press CTRL+C to quit  <br>
 
 # Now this time start UI which is react
 1. Now simply add a different terminal on CodeEditor and do not delete flask terminal. <br>
-2. Now go and read UI folder README.md <br> where you find a instruction section with simple explain and Boom! you will be able to run all project on System and test my model ,predict Diebetes.
+2. Now go and read project UI folder README.md <br> where you find a instruction section with simple explain and Boom! you will be able to run all project on System and test my model ,predict Diebetes.
 
 <div align="right">
   Thank you!
 </div>
+
 
