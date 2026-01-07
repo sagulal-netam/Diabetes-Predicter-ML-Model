@@ -1,6 +1,6 @@
 ﻿## Diabetes-Predicter-ML-Model<br>
 
-#​ 1. Project Overview<br>
+# 1. Project Overview<br>
 ​This project was developed to practice and demonstrate the full lifecycle of a Machine Learning application. As I am currently revising my Data Science concepts and preparing for a professional role, I built this to move beyond just model training and into model deployment.
 ​It bridges the gap between a Python-based ML model and a user-friendly React interface, showing how data science can be applied to solve real-world health tracking problems.<br>
 # ​2. System Architecture <br>
@@ -31,6 +31,7 @@ Press CTRL+C to quit  <br>
 <div align="right">
   Thank you!
 </div>
+
 
 
 
