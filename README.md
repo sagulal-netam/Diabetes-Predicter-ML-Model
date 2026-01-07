@@ -1,6 +1,17 @@
-﻿# Diabetes-Predicter-ML-Model
+﻿## Diabetes-Predicter-ML-Model<br>
 
-## Instruction to run code
+#​1. Project Overview<br>
+​This project was developed to practice and demonstrate the full lifecycle of a Machine Learning application. As I am currently revising my Data Science concepts and preparing for a professional role, I built this to move beyond just model training and into model deployment.
+​It bridges the gap between a Python-based ML model and a user-friendly React interface, showing how data science can be applied to solve real-world health tracking problems.<br>
+#​2. System Architecture <br>
+​The project is divided into two main parts to simulate a real-world software environment:
+​The Backend (Python & Flask): This acts as the "Engine." It hosts the trained Machine Learning model and provides an API endpoint that processes incoming health data.
+​The Frontend (React.js): This acts as the "Dashboard." It provides a clean UI for users to input their metrics (like Glucose, BMI, etc.) and displays the prediction result received from the backend.<br>
+​#3. Key Learning Objectives<br>
+​Model Integration: Successfully connecting a Scikit-Learn model to a web server using Flask.
+​Full-Stack Workflow: Managing a project that requires both backend (API) and frontend (UI) services to run simultaneously.
+​Environment Management: Organizing the project with requirements.txt and clear folder structures to ensure easy setup for other developers.<br>
+##4. Instruction to run code
 So basically we need to run make a separate python enviroment and install all requrement.txt<br>
 1. So open your code editor like Vscode or which one you use. <br>
 2. Now using code editor open Api folder and you will see Model folder and app.py file this is which we will run , before this make sure your enviroment has already requirment python library which is "Flask" <br>
@@ -20,6 +31,7 @@ Press CTRL+C to quit  <br>
 <div align="right">
   Thank you!
 </div>
+
 
 
 
