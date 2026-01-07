@@ -7,7 +7,7 @@
 ​The project is divided into two main parts to simulate a real-world software environment:
 ​The Backend (Python & Flask): This acts as the "Engine." It hosts the trained Machine Learning model and provides an API endpoint that processes incoming health data.
 ​The Frontend (React.js): This acts as the "Dashboard." It provides a clean UI for users to input their metrics (like Glucose, BMI, etc.) and displays the prediction result received from the backend.<br>
-​# 3. Key Learning Objectives<br>
+# 3. Key Learning Objectives<br>
 ​Model Integration: Successfully connecting a Scikit-Learn model to a web server using Flask.
 ​Full-Stack Workflow: Managing a project that requires both backend (API) and frontend (UI) services to run simultaneously.
 ​Environment Management: Organizing the project with requirements.txt and clear folder structures to ensure easy setup for other developers.<br>
@@ -31,6 +31,7 @@ Press CTRL+C to quit  <br>
 <div align="right">
   Thank you!
 </div>
+
 
 
 
